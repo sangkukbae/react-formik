@@ -175,11 +175,7 @@ const MySelect = ({ label, ...props }) => {
 [https://medium.com/teamsubchannel/react-formik-styled-components-add78b37971f](https://medium.com/teamsubchannel/react-formik-styled-components-add78b37971f)   
 [https://www.youtube.com/watch?v=FD50LPJ6bjE](https://www.youtube.com/watch?v=FD50LPJ6bjE)   
 
-
-
-
-
-
+:arrow_up: [위로 이동](#formik)
 
 
 
